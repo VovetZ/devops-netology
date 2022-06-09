@@ -10,3 +10,5 @@
  - файлы конфигурации CLI
 
  Add newline!!!
+
+Changed from PyCharm
